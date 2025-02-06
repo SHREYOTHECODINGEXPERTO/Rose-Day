@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Luckiest+Guy&family=Parkinsans:wght@300..800&display=swap');
+
+h1{
+     text-align: center;
+    background-color: rgb(231, 100, 122);
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border: 4px rgb(233, 140, 171);
+    font-family: "Luckiest Guy", serif;
+    font: weight 200 px;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+}
+header{
+    text-align: center;
+}
+p{ 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    text-decoration: underline;
+    text-decoration-color: rgb(235, 9, 9);
+    text-decoration-style: dotted;
+    text-overflow: ellipsis;
+}
+.BYE{ 
+    text-align: center;
+    margin:10px;
+    font-family: "Luckiest Guy", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-overflow: ellipsis;
+}
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
